@@ -36,8 +36,10 @@
             <?php
               }
             ?>
-
-
           </tbody>  
-    </table>    
+    </table>  
+    
+    <div id="div-add">
+        <i class="fa fa-plus-square" aria-hidden="true"></i>
+    </div>
 </div>    
